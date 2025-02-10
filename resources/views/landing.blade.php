@@ -30,6 +30,7 @@
                 <a href="#" class="text-gray-600 hover:text-purple-600">Features</a>
                 <a href="#" class="text-gray-600 hover:text-purple-600">Pricing</a>
                 <a href="#" class="text-gray-600 hover:text-purple-600">Contact</a>
+                <a href="#" class="text-gray-600 hover:text-purple-600">Sign In</a>
             </div>
 
             <!-- Tombol Menu Mobile -->
@@ -44,6 +45,7 @@
             <a href="#" class="text-gray-600 hover:text-purple-600">Features</a>
             <a href="#" class="text-gray-600 hover:text-purple-600">Pricing</a>
             <a href="#" class="text-gray-600 hover:text-purple-600">Contact</a>
+            <a href="#" class="text-gray-600 hover:text-purple-600">Sign In</a>
         </div>
     </nav>
 
@@ -87,7 +89,8 @@
                 </div>
 
                 <!-- Kotak Learning Chart -->
-                <div class="absolute bottom-4 right-4 bg-white p-3 rounded-lg shadow-lg flex flex-col items-center w-28">
+                <div
+                    class="absolute bottom-4 right-4 bg-white p-3 rounded-lg shadow-lg flex flex-col items-center w-28">
                     <div class="text-sm font-semibold text-gray-700">Learning Chart</div>
                     <img alt="A bar chart showing learning progress" class="mt-2 rounded-md w-full"
                         src="https://storage.googleapis.com/a1aa/image/jilCL22sj7LrCRQ09yBe6clh78ewPmHIe19wBePWRG4JAJegC.jpg" />
@@ -157,7 +160,8 @@
                         class="flex flex-col justify-between bg-white border rounded-xl shadow-lg hover:shadow-2xl p-8 text-center transition-all transform hover:scale-105 border-purple-500 ring-4 ring-purple-200">
                         <div>
                             <span
-                                class="absolute top-0 right-4 bg-purple-500 text-white text-xs font-bold uppercase px-3 py-1 rounded-full shadow-md">Most Popular</span>
+                                class="absolute top-0 right-4 bg-purple-500 text-white text-xs font-bold uppercase px-3 py-1 rounded-full shadow-md">Most
+                                Popular</span>
                             <h3 class="text-2xl font-bold text-gray-800">Pro Plan</h3>
                             <p class="text-gray-500 mt-2">For professionals ready to go pro</p>
                             <div class="mt-4">
@@ -200,64 +204,71 @@
             </div>
         </section>
 
-            <!-- Testimonials Section -->
-    <section class="mt-16 bg-gray-100 py-8">
-        <h2 class="text-3xl font-bold text-center">What Our Students Say</h2>
-        <div class="mt-8 flex justify-center space-x-8">
-            <div class="bg-white p-6 rounded-lg shadow-lg text-center">
-                <p class="italic text-gray-600">"The courses were really insightful, and the instructors were excellent!"</p>
-                <div class="mt-4 font-bold text-gray-800">John Doe</div>
-                <div class="text-sm text-gray-600">UI/UX Designer</div>
+        <!-- Testimonials Section -->
+        <section class="mt-16 bg-gray-100 py-8">
+            <h2 class="text-3xl font-bold text-center">What Our Students Say</h2>
+            <div class="mt-8 flex justify-center space-x-8">
+                <div class="bg-white p-6 rounded-lg shadow-lg text-center">
+                    <p class="italic text-gray-600">"The courses were really insightful, and the instructors were
+                        excellent!"</p>
+                    <div class="mt-4 font-bold text-gray-800">John Doe</div>
+                    <div class="text-sm text-gray-600">UI/UX Designer</div>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-lg text-center">
+                    <p class="italic text-gray-600">"I gained so much knowledge, and it's helped me level up my
+                        career."</p>
+                    <div class="mt-4 font-bold text-gray-800">Jane Smith</div>
+                    <div class="text-sm text-gray-600">Web Developer</div>
+                </div>
             </div>
-            <div class="bg-white p-6 rounded-lg shadow-lg text-center">
-                <p class="italic text-gray-600">"I gained so much knowledge, and it's helped me level up my career."</p>
-                <div class="mt-4 font-bold text-gray-800">Jane Smith</div>
-                <div class="text-sm text-gray-600">Web Developer</div>
-            </div>
-        </div>
-    </section>
+        </section>
 
-    <!-- Call to Action Section -->
-    <section class="mt-16 bg-purple-500 text-white py-12 text-center">
-        <h2 class="text-3xl font-bold">Ready to Kickstart Your Career?</h2>
-        <p class="mt-4">Join thousands of students who are boosting their skills with our courses. Start today!</p>
-        <button class="mt-6 bg-white text-purple-500 px-8 py-3 rounded-full text-lg hover:bg-purple-200 transition duration-300">Join Now</button>
-    </section>
+        <!-- Call to Action Section -->
+        <section class="mt-16 bg-purple-500 text-white py-12 text-center">
+            <h2 class="text-3xl font-bold">Ready to Kickstart Your Career?</h2>
+            <p class="mt-4">Join thousands of students who are boosting their skills with our courses. Start today!
+            </p>
+            <button
+                class="mt-6 bg-white text-purple-500 px-8 py-3 rounded-full text-lg hover:bg-purple-200 transition duration-300">Join
+                Now</button>
+        </section>
 
-    <!-- FAQ Section -->
-    <section class="mt-16 px-4 md:px-8">
-        <h2 class="text-3xl font-bold text-center">Frequently Asked Questions</h2>
-        <div class="mt-8 grid grid-cols-1 md:grid-cols-2 gap-8">
-            <div class="bg-white p-6 rounded-lg shadow-lg">
-                <h3 class="text-xl font-bold text-gray-800">How do I sign up for a course?</h3>
-                <p class="mt-2 text-gray-600">Simply create an account and browse the available courses. Click the 'Join Now' button to enroll.</p>
+        <!-- FAQ Section -->
+        <section class="mt-16 px-4 md:px-8">
+            <h2 class="text-3xl font-bold text-center">Frequently Asked Questions</h2>
+            <div class="mt-8 grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div class="bg-white p-6 rounded-lg shadow-lg">
+                    <h3 class="text-xl font-bold text-gray-800">How do I sign up for a course?</h3>
+                    <p class="mt-2 text-gray-600">Simply create an account and browse the available courses. Click the
+                        'Join Now' button to enroll.</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-lg">
+                    <h3 class="text-xl font-bold text-gray-800">Are the courses beginner-friendly?</h3>
+                    <p class="mt-2 text-gray-600">Yes, many of our courses are designed for beginners, with clear
+                        instructions and practical examples.</p>
+                </div>
             </div>
-            <div class="bg-white p-6 rounded-lg shadow-lg">
-                <h3 class="text-xl font-bold text-gray-800">Are the courses beginner-friendly?</h3>
-                <p class="mt-2 text-gray-600">Yes, many of our courses are designed for beginners, with clear instructions and practical examples.</p>
-            </div>
-        </div>
-    </section>
-    <script>
-        // Toggle menu mobile saat tombol diklik
-        document.getElementById("menu-btn").addEventListener("click", function () {
-            document.getElementById("mobile-menu").classList.toggle("hidden");
-        });
-    </script>
+        </section>
+        <script>
+            // Toggle menu mobile saat tombol diklik
+            document.getElementById("menu-btn").addEventListener("click", function() {
+                document.getElementById("mobile-menu").classList.toggle("hidden");
+            });
+        </script>
 
 
     </main>
-        <!-- Footer Section -->
-        <footer class="bg-gray-800 text-white py-8">
-            <div class="flex flex-col items-center">
-                <p>&copy; 2025 Brainwave. All rights reserved.</p>
-                <div class="mt-4 space-x-4">
-                    <a href="#" class="text-gray-400 hover:text-gray-300">Facebook</a>
-                    <a href="#" class="text-gray-400 hover:text-gray-300">Instagram</a>
-                    <a href="#" class="text-gray-400 hover:text-gray-300">Twitter</a>
-                </div>
+    <!-- Footer Section -->
+    <footer class="bg-gray-800 text-white py-8">
+        <div class="flex flex-col items-center">
+            <p>&copy; 2025 Brainwave. All rights reserved.</p>
+            <div class="mt-4 space-x-4">
+                <a href="#" class="text-gray-400 hover:text-gray-300">Facebook</a>
+                <a href="#" class="text-gray-400 hover:text-gray-300">Instagram</a>
+                <a href="#" class="text-gray-400 hover:text-gray-300">Twitter</a>
             </div>
-        </footer>
+        </div>
+    </footer>
 </body>
 
 </html>
