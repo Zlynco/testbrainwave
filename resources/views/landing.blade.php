@@ -104,22 +104,22 @@
                 <div
                     class="bg-pink-100 p-6 rounded-lg text-center transition-transform transform hover:scale-105 hover:shadow-lg">
                     <i class="fas fa-paint-brush text-4xl text-pink-500"></i>
-                    <h3 class="mt-4 text-xl font-bold">UI/UX Design</h3>
+                    <h3 class="mt-4 text-xl font-bold">Lorem Ipsum</h3>
                 </div>
                 <div
                     class="bg-purple-100 p-6 rounded-lg text-center transition-transform transform hover:scale-105 hover:shadow-lg">
                     <i class="fas fa-code text-4xl text-purple-500"></i>
-                    <h3 class="mt-4 text-xl font-bold">Web Development</h3>
+                    <h3 class="mt-4 text-xl font-bold">Lorem Ipsum</h3>
                 </div>
                 <div
                     class="bg-blue-100 p-6 rounded-lg text-center transition-transform transform hover:scale-105 hover:shadow-lg">
                     <i class="fas fa-bullhorn text-4xl text-blue-500"></i>
-                    <h3 class="mt-4 text-xl font-bold">Digital Marketing</h3>
+                    <h3 class="mt-4 text-xl font-bold">Lorem Ipsum</h3>
                 </div>
                 <div
                     class="bg-orange-100 p-6 rounded-lg text-center transition-transform transform hover:scale-105 hover:shadow-lg">
                     <i class="fas fa-chalkboard-teacher text-4xl text-orange-500"></i>
-                    <h3 class="mt-4 text-xl font-bold">Practical Learning</h3>
+                    <h3 class="mt-4 text-xl font-bold">Lorem Ipsum</h3>
                 </div>
             </div>
             <div class="mt-8 text-center">
